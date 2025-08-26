@@ -6,7 +6,7 @@ It is a fully responsive ecommerce website, maximum compatiblities in all web se
 
 ## Demo
 
-![Ecommerce Product Page Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
+![Ecommerce Product Page Desktop Demo](./website-demo-image/desktop.png"Desktop Demo")
 <!-- ![Ecommerce Product Page Mobile Demo](./website-demo-image/mobile.png "Mobile Demo") -->
 
 ## Prerequisites
